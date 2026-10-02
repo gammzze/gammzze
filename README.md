@@ -15,7 +15,9 @@ I am an **Information Systems Engineering** student at Kocaeli University, passi
 
 ### 💡 Featured Projects
 * **[Jewelry Stock Automation](https://github.com/gammzze/Bijuteri-Stok-Takip-Otomasyonu):** A comprehensive stock tracking and management system built with C# and MS SQL Server, featuring advanced database objects (Triggers, Views, Stored Procedures).
-* **[Clinical Data Science & AI Projects](https://github.com/gammzze):** Machine learning models, SHAP explainability analyses, and financial interpretation AI tools built with Python.
+* **[Reminder App](https://github.com/gammzze/reminderapp):** A reminder application featuring a FastAPI backend, password hashing, and user authentication.
+* **[Financial Interpretation AI](https://github.com/gammzze/finansal-yorumlama-ai):** An AI-powered financial interpretation and analysis tool built with Python.
+* **[Recommendation Chatbot](https://github.com/gammzze/oneri_chatbot):** A smart chatbot application designed to provide customized suggestions.
 
 ---
 
